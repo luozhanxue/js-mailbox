@@ -1,7 +1,6 @@
 # js-mailbox
 js原生写的邮箱
 
-
 <html>
 	<head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -241,7 +240,7 @@ js原生写的邮箱
     </body>
 </html>
 
-
+<script>
 //下面是调用的js代码
 // JavaScript Document
 
@@ -343,4 +342,5 @@ function run(obj,json,model,endFunction){               //运动框架
 	obj.timer = setInterval(runOne,30);  //重复执行单次运动，以达到运动效果
 	
 }
+</script>
 
